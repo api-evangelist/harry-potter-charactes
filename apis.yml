@@ -1,4 +1,16 @@
 aid: harry-potter-charactes
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/harry-potter-charactes.png
 name: Harry Potter Charactes
 description: "Harry Potter Characters Data with with imagery"
 url: https://hp-api.herokuapp.com/

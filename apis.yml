@@ -39,7 +39,6 @@ apis:
   - name: Harry Potter Charactes
     description: "Harry Potter Characters Data with with imagery"
     humanURL: https://hp-api.herokuapp.com/
-    baseURL: https://hp-api.herokuapp.com/
     tags:
       - Video
     properties:
